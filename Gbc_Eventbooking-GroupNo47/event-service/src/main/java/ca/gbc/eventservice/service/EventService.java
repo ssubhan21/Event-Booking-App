@@ -70,7 +70,7 @@ public class EventService {
                     for (%s)
                     
                     Thank you for your booking enjoy
-                    Gbc Librray Staff Nishita Sachdev
+                    Gbc Librray Staff subhan Mohammed abdul
                     """,orderPlacedEvent.getBookingId(),orderPlacedEvent.getRoomId(),orderPlacedEvent.getBookingDate()));
         };
         try {
